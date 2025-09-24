@@ -7,6 +7,10 @@ p {
 }
 body {
   background-color: rgb(56, 164, 214);
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
 }
 a {
   font-size: 20px;
