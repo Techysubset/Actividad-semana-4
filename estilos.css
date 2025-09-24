@@ -1,6 +1,13 @@
+h1 {
+  color: red;
+}
+
 p {
-  font-size: 56px;
+  font-size: 30px;
 }
 body {
-  background-color: green;
+  background-color: rgb(56, 164, 214);
+}
+a {
+  font-size: 20px;
 }
