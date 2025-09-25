@@ -1,17 +1,44 @@
 h1 {
+  font-size: 70px;
   color: red;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+h2 {
+  font-size: 50px;
+  color: rgb(174, 0, 255);
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+li {
+  font-size: 40px;
 }
 
 p {
+  margin: auto;
+  padding: 15px;
   font-size: 30px;
 }
 body {
   background-color: rgb(56, 164, 214);
-  font-family: "Orbitron", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 450;
+
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
   font-style: normal;
 }
 a {
+  font-size: 60px;
+}
+blockquote {
   font-size: 30px;
+}
+
+table {
+  border: 1;
+  border-radius: 2;
 }
